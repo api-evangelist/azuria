@@ -31,7 +31,7 @@ x-tier-reason: portfolio-lead
 x-enrichment-note: 'Enriched 2026-07-18: azuria.com confirmed as Azuria Water Solutions (water
   infrastructure rehabilitation); no API/developer surface found (all /.well-known and API paths 404).
   Norwest portfolio linkage unverified — possible name mismatch. No API artifacts fabricated.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
